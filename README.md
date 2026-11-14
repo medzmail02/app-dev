@@ -2,7 +2,7 @@
 
 My first repository
 
-## My Favorite Series: Harry potter
+## My Favorite Movie: Harry potter
 
 **Genre:** Fantasy / Adventure / Family 
 *Created by the J. K. Rowling*
